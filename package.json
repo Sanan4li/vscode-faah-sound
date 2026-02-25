@@ -1,11 +1,12 @@
 {
-  "name": "faah-sound",
-  "displayName": "faah-sound",
+  "name": "terminal-faah-sound",
+  "displayName": "terminal-faah-sound",
   "description": "Plays faah sound whenever terminal command fails. Just for fun.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.93.0"
   },
+  "publisher": "Sanan4li",
   "repository": {
     "type": "git",
     "url": "https://github.com/Sanan4li/vscode-faah-sound.git"
